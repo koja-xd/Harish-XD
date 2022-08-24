@@ -15,4 +15,4 @@ pkg install libcurl
 clear
 gem install lolcat
 clear
-python harish.py
+python Hashir.py
